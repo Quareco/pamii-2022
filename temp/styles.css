@@ -1,0 +1,43 @@
+body{
+
+    background: black;
+
+}
+
+h1{
+
+    color: aliceblue;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 80px;
+
+}
+
+.tevesinha{
+
+    position: absolute;
+    margin-left: -950px;
+
+}
+
+.cubinho{
+
+    margin-left: 350px;
+    margin-top: 100px;
+    margin-bottom: 200px;
+
+}
+
+button{
+
+    margin-left: 20px;
+
+}
+
+.caixinhaFofa{
+
+    margin-left: 600px;
+    margin-bottom: 40px;
+
+}
